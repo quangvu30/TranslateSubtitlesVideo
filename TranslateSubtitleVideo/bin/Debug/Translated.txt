@@ -1,0 +1,557 @@
+1
+00: 00: 00,480 -> 00: 00: 03,640
+Ung thư là một thứ đáng sợ và bí ẩn.
+
+2
+00: 00: 03.860 -> 00: 00: 06.100
+Trong quá trình cố gắng hiểu nó,
+
+3
+00: 00: 06,100 -> 00: 00: 07,720
+để giết nó tốt hơn,
+
+4
+00: 00: 07,720 -> 00: 00: 12,180
+chúng tôi đã phát hiện ra một nghịch lý sinh học
+điều đó vẫn chưa được giải quyết cho đến ngày nay:
+
+5
+00: 00: 12,780 -> 00: 00: 15,920
+Động vật lớn dường như miễn nhiễm với bệnh ung thư,
+
+6
+00: 00: 15,920 -> 00: 00: 17,600
+điều đó không có ý nghĩa gì.
+
+7
+00: 00: 17,760 -> 00: 00: 20,620
+Một sinh vật càng lớn thì càng có nhiều ung thư.
+
+số 8
+00: 00: 21,000 -> 00: 00: 25,760
+Để hiểu tại sao trước tiên chúng ta cần
+hãy nhìn vào bản chất của chính bệnh ung thư.
+
+9
+00: 00: 27,620 -> 00: 00: 30,960
+(Nhạc giới thiệu Kurzgesagt)
+
+10
+00: 00: 31,760 -> 00: 00: 32,820
+Kurzgesagt in a Nutshell
+
+11
+00: 00: 33,520 -> 00: 00: 38,180
+Tế bào của chúng ta là những robot protein được tạo ra
+hàng trăm triệu bộ phận.
+
+12
+00: 00: 38,860 -> 00: 00: 41,140
+Chỉ được hướng dẫn bởi các phản ứng hóa học,
+
+13
+00: 00: 41,140 -> 00: 00: 43,900
+họ tạo ra và tháo dỡ các cấu trúc,
+
+14
+00: 00: 43,900 -> 00: 00: 46,280
+duy trì sự trao đổi chất để có được năng lượng,
+
+15
+00: 00: 46,280 -> 00: 00: 49,240
+hoặc tạo bản sao * gần như * hoàn hảo của chính họ.
+
+16
+00: 00: 49,820 -> 00: 00: 53,120
+Chúng tôi gọi đó là những con đường phản ứng hóa học phức tạp.
+
+17
+00: 00: 53,420 -> 00: 00: 59,200
+Chúng là các mạng lưới sinh hóa dựa trên các mạng lưới,
+đan xen và xếp chồng lên nhau.
+
+18
+00: 00: 59,680 -> 00: 01: 05,500
+Hầu hết chúng hầu như không thể hiểu được bởi
+một bộ óc con người duy nhất và chúng hoạt động hoàn hảo ...
+
+19
+00: 01: 05,519 -> 00: 01: 07,520
+Cho đến khi .. họ không.
+
+20
+00: 01: 08.020 -> 00: 01: 13.440
+Với hàng tỷ nghìn tỷ phản ứng xảy ra
+trong hàng nghìn mạng trong nhiều năm,
+
+21
+00: 01: 13,580 -> 00: 01: 17,140
+Câu hỏi không phải là * nếu * gì đó
+sẽ đi sai, nhưng khi nào.
+
+22
+00: 01: 17,720 -> 00: 01: 21,880
+Những sai lầm nhỏ sẽ cộng lại cho đến khi
+máy móc hoành tráng bị hỏng.
+
+23
+00: 01: 22.180 -> 00: 01: 24.320
+Để ngăn điều này vượt khỏi tầm tay,
+
+24
+00: 01: 24.320 -> 00: 01: 27.880
+tế bào của chúng ta có công tắc tiêu diệt
+khiến họ tự sát.
+
+25
+00: 01: 28.180 -> 00: 01: 31.420
+Nhưng những công tắc tiêu diệt này không phải là sai lầm.
+
+26
+00: 01: 31.420 -> 00: 01: 34.580
+Nếu chúng thất bại, một tế bào có thể biến thành tế bào ung thư.
+
+27
+00: 01: 34,960 -> 00: 01: 38,220
+Hầu hết trong số họ bị giết bởi
+hệ thống miễn dịch rất nhanh chóng.
+
+28
+00: 01: 38.380 -> 00: 01: 40.380
+Nhưng đây là một trò chơi số.
+
+29
+00: 01: 40.380 -> 00: 01: 46.420
+Nếu có đủ thời gian, một tế bào sẽ tích lũy đủ sai lầm, trượt đi do không được chú ý và bắt đầu tự tạo ra nhiều lỗi hơn.
+
+30
+00: 01: 46.840 -> 00: 01: 49.440
+Tất cả các loài động vật phải đối phó với vấn đề này.
+
+31
+00: 01: 49.760 -> 00: 01: 53.800
+Nói chung, các ô khác nhau
+động vật có cùng kích thước.
+
+32
+00: 01: 54.100 -> 00: 02: 00.180
+Các ô của một con chuột không nhỏ hơn của bạn.
+Nó chỉ có tổng số tế bào ít hơn và tuổi thọ ngắn hơn.
+
+33
+00: 02: 00.600 -> 00: 02: 06.860
+Ít tế bào hơn và tuổi thọ ngắn có nghĩa là cơ hội thấp hơn
+mọi thứ đang xảy ra sai hoặc các tế bào đột biến,
+
+34
+00: 02: 06.880 -> 00: 02: 08.980
+hoặc ít nhất nó phải có nghĩa là như vậy.
+
+35
+00: 02: 09.240 -> 00: 02: 14.360
+Con người sống lâu hơn khoảng 50 lần và
+có số tế bào nhiều hơn gấp 3! 000 lần so với chuột,
+
+36
+00: 02: 14.360 -> 00: 02: 18.360
+nhưng tỷ lệ ung thư về cơ bản là
+ở người và chuột cũng vậy.
+
+37
+00: 02: 18.740 -> 00: 02: 25.300
+Ngay cả bồi bàn, cá voi xanh với lượng tế bào gấp khoảng 3.000 lần con người dường như không thực sự bị ung thư.
+
+38
+00: 02: 26.040 -> 00: 02: 28.160
+Đây là PARADOX CỦA PETO:
+
+39
+00: 02: 28.160 -> 00: 02: 33.720
+Nhận ra bối rối rằng động vật lớn
+ít bị ung thư hơn nhiều so với những gì họ nên làm.
+
+40
+00: 02: 34.320 -> 00: 02: 40.100
+Các nhà khoa học cho rằng có hai cách chính để
+giải thích nghịch lý; tiến hóa và siêu khối u.
+
+41
+00: 02: 40.820 -> 00: 02: 44.380
+Giải pháp một: phát triển hoặc trở thành một đốm màu của ung thư.
+
+42
+00: 02: 45.280 -> 00: 02: 49.100
+Là những sinh vật đa bào
+phát triển cách đây 600 triệu năm,
+
+43
+00: 02: 49.100 -> 00: 02: 51.420
+động vật trở nên lớn hơn và lớn hơn.
+
+44
+00: 02: 51.420 -> 00: 02: 56.800
+Điều này đã thêm ngày càng nhiều ô và do đó nhiều hơn
+và nhiều khả năng các ô có thể bị hỏng.
+
+45
+00: 02: 57.060 -> 00: 03: 01.180
+Vì vậy, tập thể đã phải đầu tư
+phòng chống ung thư ngày càng tốt hơn.
+
+46
+00: 03: 01.180 -> 00: 03: 03.520
+Những người đã không chết.
+
+47
+00: 03: 03.660 -> 00: 03: 05.680
+Nhưng ung thư không chỉ xảy ra.
+
+48
+00: 03: 05.680 -> 00: 03: 12.720
+Đó là một quá trình bao gồm nhiều sai lầm cá nhân và đột biến ở một số gen cụ thể trong cùng một tế bào.
+
+49
+00: 03: 13.380 -> 00: 03: 18.560
+Những gen này được gọi là proto-oncogenes
+và khi chúng thay đổi thì đó là tin xấu.
+
+50
+00: 03: 19,200 -> 00: 03: 24,140
+Ví dụ với đột biến bên phải,
+một tế bào sẽ mất khả năng tự tiêu diệt.
+
+51
+00: 03: 24.600 -> 00: 03: 28.080
+Một đột biến khác và nó sẽ phát triển khả năng ẩn.
+
+52
+00: 03: 28.080 -> 00: 03: 31.260
+Khác và nó sẽ gửi các cuộc gọi cho các nguồn lực.
+
+53
+00: 03: 31.320 -> 00: 03: 33.880
+Một cái khác và nó sẽ nhân lên nhanh chóng.
+
+54
+00: 03: 34.340 -> 00: 03: 37.240
+Mặc dù vậy, những ung thư này có một chất đối kháng;
+
+55
+00: 03: 37.240 -> 00: 03: 39.100
+Gen ức chế khối u.
+
+56
+00: 03: 39.580 -> 00: 03: 45.940
+Họ ngăn chặn những đột biến quan trọng này xảy ra hoặc ra lệnh cho tế bào tự tiêu diệt nếu họ quyết định rằng nó không thể sửa chữa được.
+
+57
+00: 03: 46.260 -> 00: 03: 49.540
+Nó chỉ ra rằng động vật lớn
+có một số lượng gia tăng trong số họ.
+
+58
+00: 03: 50,200 -> 00: 03: 54,940
+Do đó, tế bào voi đòi hỏi nhiều hơn
+đột biến hơn tế bào chuột để phát triển một khối u.
+
+59
+00: 03: 55.280 -> 00: 03: 58.060
+Họ không miễn dịch nhưng kiên cường hơn.
+
+60
+00: 03: 58.500 -> 00: 04: 04.020
+Việc chuyển thể này có thể đi kèm với chi phí
+một số hình thức nhưng các nhà nghiên cứu vẫn không chắc chắn nó là gì.
+
+61
+00: 04: 04.340 -> 00: 04: 10.420
+Có thể các chất ức chế khối u khiến voi già đi nhanh hơn sau này hoặc làm chậm quá trình vết thương mau lành.
+
+62
+00: 04: 10.600 -> 00: 04: 12.100
+Chúng tôi chưa biết.
+
+63
+00: 04: 12.480 -> 00: 04: 16.120
+Nhưng giải pháp cho nghịch lý
+thực sự có thể là một cái gì đó khác nhau.
+
+64
+00: 04: 16,279 -> 00: 04: 17,519
+"Hypertumors"
+
+65
+00: 04: 18.200 -> 00: 04: 20.880
+Giải pháp 2: Hypertumors
+
+66
+00: 04: 20.880 -> 00: 04: 21.700
+Giải pháp 2: Hypertumors
+(Đúng)
+
+67
+00: 04: 21.700 -> 00: 04: 22.520
+Giải pháp 2: Hypertumors
+(Vâng thật đấy.)
+
+68
+00: 04: 23.020 -> 00: 04: 28.120
+Hypertumors được đặt tên theo
+hyperparasites: ký sinh trùng.
+
+69
+00: 04: 28.320 -> 00: 04: 30.980
+Hypertumors là khối u của các khối u.
+
+70
+00: 04: 31.280 -> 00: 04: 34.260
+Ung thư có thể được coi là
+một sự đổ vỡ trong hợp tác.
+
+71
+00: 04: 34.600 -> 00: 04: 40.640
+Thông thường, các tế bào làm việc cùng nhau để tạo thành các cấu trúc như các cơ quan, mô hoặc các yếu tố của hệ thống miễn dịch.
+
+72
+00: 04: 41.100 -> 00: 04: 45.560
+Nhưng tế bào ung thư rất ích kỷ và chỉ hoạt động vì lợi ích ngắn hạn của riêng chúng.
+
+73
+00: 04: 45.920 -> 00: 04: 51.360
+Nếu chúng thành công, chúng sẽ hình thành các khối u;
+những tập thể ung thư khổng lồ có thể rất khó tiêu diệt.
+
+74
+00: 04: 52.120 -> 00: 04: 54.480
+Tuy nhiên, tạo khối u là một công việc khó khăn.
+
+75
+00: 04: 54.840 -> 00: 05: 00.480
+Hàng triệu hoặc hàng tỷ tế bào ung thư nhân lên nhanh chóng,
+đòi hỏi nhiều tài nguyên và năng lượng.
+
+76
+00: 05: 00.980 -> 00: 05: 05.640
+Lượng chất dinh dưỡng mà chúng có thể ăn cắp
+cơ thể trở thành yếu tố hạn chế cho sự phát triển.
+
+77
+00: 05: 05,940 -> 00: 05: 12,240
+Vì vậy, các tế bào khối u đánh lừa cơ thể để xây dựng các mạch máu mới trực tiếp đến khối u, để nuôi thứ giết chết nó.
+
+78
+00: 05: 12.860 -> 00: 05: 16.840
+Và đây, bản chất của tế bào ung thư
+có thể trở thành hoàn tác của riêng họ.
+
+79
+00: 05: 17.320 -> 00: 05: 22.360
+Tế bào ung thư vốn không ổn định
+và vì vậy chúng có thể tiếp tục đột biến.
+
+80
+00: 05: 22.360 -> 00: 05: 24.440
+Một số người trong số họ nhanh hơn bạn bè của họ.
+
+81
+00: 05: 24,900 -> 00: 05: 26,540
+Nếu họ làm điều này trong một thời gian,
+
+82
+00: 05: 26.540 -> 00: 05: 30.500
+tại một số điểm, một trong những bản sao của
+bản sao của tế bào ung thư ban đầu,
+
+83
+00: 05: 30,520 -> 00: 05: 35,060
+có thể đột nhiên nghĩ về nó như một
+cá nhân một lần nữa và ngừng hợp tác.
+
+84
+00: 05: 35,260 -> 00: 05: 37,420
+Có nghĩa là giống như cơ thể,
+
+85
+00: 05: 37.420 -> 00: 05: 40.140
+khối u ban đầu đột nhiên trở thành kẻ thù,
+
+86
+00: 05: 40.140 -> 00: 05: 43.260
+tranh giành các chất dinh dưỡng và tài nguyên khan hiếm như nhau.
+
+87
+00: 05: 43.820 -> 00: 05: 47.520
+Vì vậy, các tế bào mới bị đột biến có thể tạo ra một hypertumor.
+
+88
+00: 05: 48.140 -> 00: 05: 51.780
+Thay vì giúp đỡ, họ cắt bỏ
+cung cấp máu cho những người bạn cũ của họ,
+
+89
+00: 05: 51,780 -> 00: 05: 55,000
+sẽ làm chết đói và tiêu diệt các tế bào ung thư ban đầu.
+
+90
+00: 05: 55,280 -> 00: 05: 57,060
+Ung thư đang giết chết ung thư.
+
+91
+00: 05: 57,660 -> 00: 06: 00,200
+Quá trình này có thể lặp đi lặp lại,
+
+92
+00: 06: 00.200 -> 00: 06: 04.300
+và điều này có thể ngăn ngừa ung thư
+trở thành một vấn đề đối với một sinh vật lớn.
+
+93
+00: 06: 04.820 -> 00: 06: 09.240
+Có thể những động vật lớn có
+nhiều khối u siêu lớn hơn chúng ta nhận ra,
+
+94
+00: 06: 09.240 -> 00: 06: 11.520
+họ có thể không trở nên đủ lớn để nhận thấy
+
+95
+00: 06: 11,560 -> 00: 06: 16,380
+Điều đó có ý nghĩa với một khối u hai gram
+là 10% trọng lượng cơ thể của một con chuột,
+
+96
+00: 06: 16.440 -> 00: 06: 20.080
+trong khi đó chưa đến 0,002% con người
+
+97
+00: 06: 20.080 -> 00: 06: 24.600
+và 0,000002% của một con cá voi xanh.
+
+98
+00: 06: 25.000 -> 00: 06: 29.700
+Cả ba khối u đều yêu cầu cùng một số lượng
+phân chia tế bào và có cùng số lượng tế bào.
+
+99
+00: 06: 29.800 -> 00: 06: 34.480
+Vì vậy, một con cá voi xanh già có thể được lấp đầy
+với các bệnh ung thư nhỏ và chỉ là không quan tâm.
+
+100
+00: 06: 34,700 -> 00: 06: 38,060
+Có những giải pháp khác được đề xuất cho nghịch lý của Peto,
+
+101
+00: 06: 38.060 -> 00: 06: 39.800
+chẳng hạn như tỷ lệ trao đổi chất khác nhau
+
+102
+00: 06: 39,800 -> 00: 06: 41,760
+hoặc kiến trúc di động khác nhau.
+
+103
+00: 06: 41,980 -> 00: 06: 43,720
+Nhưng ngay bây giờ chúng ta không biết.
+
+104
+00: 06: 43,980 -> 00: 06: 45,900
+Các nhà khoa học đang nghiên cứu vấn đề này.
+
+105
+00: 06: 46.540 -> 00: 06: 51.300
+Tìm hiểu xem các loài động vật lớn có khả năng phục hồi như thế nào
+đối với một trong những căn bệnh chết người nhất mà chúng ta biết,
+
+106
+00: 06: 51.300 -> 00: 06: 54.320
+có thể mở ra con đường dẫn đến các liệu pháp và phương pháp điều trị mới.
+
+107
+00: 06: 55,960 -> 00: 06: 58,000
+Ung thư luôn là một thách thức.
+
+108
+00: 06: 58.180 -> 00: 07: 01.460
+Hôm nay, chúng ta cuối cùng cũng bắt đầu hiểu nó
+
+109
+00: 07: 01.460 -> 00: 07: 05.500
+và bằng cách làm như vậy, một ngày nào đó chúng ta cuối cùng có thể vượt qua nó.
+
+110
+00: 07: 07.200 -> 00: 07: 09.100
+Video này được tài trợ bởi ...
+
+111
+00: 07: 09.100 -> 00: 07: 09.620
+BẠN!
+
+112
+00: 07: 09.620 -> 00: 07: 10.120
+Chim: CÁI GÌ?
+
+113
+00: 07: 10,280 -> 00: 07: 13,840
+Nếu bạn muốn giúp chúng tôi kiếm được nhiều tiền hơn,
+bạn có thể làm như vậy bằng cách hỗ trợ chúng tôi trên Patreon,
+
+114
+00: 07: 13,840 -> 00: 07: 16,140
+hoặc nhận được một trong những điều tuyệt vời mà chúng tôi đã làm,
+
+115
+00: 07: 16.160 -> 00: 07: 21.760
+như Sổ tay thám hiểm không gian của chúng tôi với đồ họa thông tin
+các trang và nét độc đáo để truyền cảm hứng cho sự sáng tạo của bạn,
+
+116
+00: 07: 21,760 -> 00: 07: 23,700
+hoặc một gói áp phích đồ họa thông tin,
+
+117
+00: 07: 23,700 -> 00: 07: 26,100
+hoặc áo hoodie rất Kurzgesagt,
+
+118
+00: 07: 26.120 -> 00: 07: 28.120
+hoặc nếu bạn đã bỏ lỡ nó lần đầu tiên,
+
+119
+00: 07: 28.120 -> 00: 07: 29.980
+lần thứ hai của nhật ký tri ân của chúng tôi.
+
+120
+00: 07: 29,980 -> 00: 07: 34,720
+Chúng tôi dành nhiều thời gian và tình yêu cho hàng hóa của mình
+bởi vì giống như với các video của chúng tôi,
+
+121
+00: 07: 34,760 -> 00: 07: 37,760
+chúng tôi chỉ muốn đưa mọi thứ vào
+thế giới mà chúng tôi cảm thấy hài lòng.
+
+122
+00: 07: 37.840 -> 00: 07: 41.500
+Kurzgesagt là một dự án
+bởi quyền không thực sự hoạt động.
+
+123
+00: 07: 41,600 -> 00: 07: 47,040
+Những video như video bạn vừa xem mất hàng tháng trời
+để hoàn thành và chúng tôi chỉ có thể dành rất nhiều thời gian,
+
+124
+00: 07: 47.040 -> 00: 07: 48.920
+vì sự hỗ trợ trực tiếp của bạn,
+
+125
+00: 07: 48,920 -> 00: 07: 52,300
+vì bạn xem và chia sẻ và vì bạn quan tâm.
+
+126
+00: 07: 52,580 -> 00: 07: 54,000
+Cảm ơn vì đã xem.
+
+127
+00: 07: 55.600 -> 00: 08: 04.260
+(Chủ đề Space-y Kurzgesagt)
